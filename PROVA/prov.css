@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    background-color: #04779e;
+    color: azure;
+}
+
+h2{
+    background: linear-gradient(#b3cce2,#D9CCC1);
+}
+
+.a{list-style-image: url(imgs_prov/emo1.jpg);}
+.b{list-style-image: url(imgs_prov/emo2.jpg);}
+.c{list-style-image: url(imgs_prov/emo3.jpg);}
+.d{list-style-image: url(imgs_prov/emo4.jpg);}
+
+ol.li{
+    list-style-type: none;
+}
+
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+a:visited{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
